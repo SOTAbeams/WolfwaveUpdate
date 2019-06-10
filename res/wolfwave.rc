@@ -1,0 +1,25 @@
+#include <windows.h>
+
+IDI_APPICON ICON "wolfwave-icon.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,0,1,0
+PRODUCTVERSION  1,0,1,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "08090000"
+    BEGIN
+      VALUE "CompanyName", "SOTABEAMS"
+      VALUE "FileDescription", "WOLFWAVE firmware update tool"
+      VALUE "FileVersion", "1,0,1,0"
+      VALUE "ProductVersion", "1,0,1,0"
+      VALUE "InternalName", "WolfwaveUpdate"
+      VALUE "LegalCopyright", "SOTABEAMS"
+      VALUE "OriginalFilename", "WolfwaveUpdate.exe"
+      VALUE "ProductName", "WOLFWAVE updater"
+    END
+  END
+END
+
+1 24 "wolfwave.manifest"

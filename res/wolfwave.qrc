@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>wolfwave-icon-16.png</file>
+    <file>wolfwave-icon-32.png</file>
+    <file>wolfwave-icon-256.png</file>
+</qresource>
+</RCC>

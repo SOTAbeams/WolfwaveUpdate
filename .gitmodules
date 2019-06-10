@@ -1,0 +1,3 @@
+[submodule "libFirmwareUpdate++"]
+	path = libFirmwareUpdate++
+	url = https://github.com/SOTAbeams/libFirmwareUpdatepp.git
